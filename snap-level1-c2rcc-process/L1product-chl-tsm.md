@@ -1,5 +1,10 @@
 
 
+Level 2 (L2) products of the Ocean and Land Colour Instrument **(OLCI)** of Sentinel 3 such as **Chlorophyll Concentration (conc_chl)** and **total matter suspenden (conc_tsm)** are derived using the Case-2 Regional CoastColour (C2RCC) processor in the Sentinel Application Platform (SNAP).
+
+You can follow the next guide with images to obtain these values from a Level 1 (L1) Sentinel 3 product.
+
+
 ## Copernicus Hub
 
 1. In the [Copernicus Hub](https://scihub.copernicus.eu/]) download a sentinel 3 L1 product. You can specify a polygon (area) of interest, dates or instrument.
