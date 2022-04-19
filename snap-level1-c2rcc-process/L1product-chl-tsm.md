@@ -7,7 +7,7 @@ You can follow the next guide with images to obtain these values from a Level 1 
 
 ## Copernicus Hub
 
-1. In the [Copernicus Hub](https://scihub.copernicus.eu/]) download a sentinel 3 L1 product. You can specify a polygon (area) of interest, dates or instrument.
+1. In the Copernicus Hub download a sentinel 3 L1 product. You can specify a polygon (area) of interest, dates or instrument.
 
 ![](images/hub.PNG "Copernicus Hub")
 
@@ -15,8 +15,6 @@ You can follow the next guide with images to obtain these values from a Level 1 
 
 
 ## SNAP
-
-**If you don't have the SNAP software you can download [here](https://step.esa.int/main/download/snap-download/)**
 
 3. Drag the resulting folder (*step2*) to SNAP software.
 
